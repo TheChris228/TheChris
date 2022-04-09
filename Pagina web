@@ -1,0 +1,12 @@
+<html>
+<head>
+<base href="htto://www.prueba.com">
+<base target="_blank">
+<title>todavia no se</title>
+</head>
+<body>
+Hola me llamo cristian y para los que no me conozcais más abajo os e dejado un link en donde os mandará a otra pagina en donde conocereis 50 cosas sobre mi<br>
+<a href="50 cosas sobre mi.html">50 cossas sobre mi</a>
+<br><a href="todavia no se el titulo2.html">Esta pagina pero en oscura</a>
+</body>
+</html>
